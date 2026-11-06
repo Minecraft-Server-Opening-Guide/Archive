@@ -2,7 +2,7 @@
 title: 更新日志
 description: 
 published: 1
-date: 2026-11-05T10:22:20.997Z
+date: 2026-11-06T13:34:22.068Z
 tags: 信息, 更新日志
 editor: markdown
 dateCreated: 2026-11-03T14:20:45.145Z
@@ -88,3 +88,6 @@ dateCreated: 2026-11-03T14:20:45.145Z
 
 ### 2026-11-05
 - `提交39次`：资源下载详情页内文档增加html渲染
+
+### 2026-11-05
+- `提交49次`：motd生成工具新增minimotd格式支持（渐变色，自定义颜色等）
